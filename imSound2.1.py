@@ -55,6 +55,7 @@ def statistics(img):
 
     return([dominant_color, brightness, contrast])
 
+
 # playthemusic
 
 def start_music(im_data):
